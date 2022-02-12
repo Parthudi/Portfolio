@@ -19,9 +19,7 @@ row-gap: 3rem;
   flex-direction: column;
   padding: 2rem;
   padding-bottom: 0;
-}
-
-`
+}`
 export const BlogCard = styled.div`
   border-radius: 10px;
   box-shadow: 3px 3px 20px rgba(80, 78, 78, 0.5);
@@ -37,7 +35,6 @@ export const TitleContent = styled.div`
   width: 100%;
 
 `;
-
 
 export const HeaderThree = styled.h3`
   font-weight: 500;
