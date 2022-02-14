@@ -41,7 +41,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Other Technologies</ListTitle>
           <ListParagraph>
-            Express.js, <br /> Fastify, <br /> Material-UI, <br /> TypeSript, <br /> Microservices <br /> GitHub <br /> Git Lab
+            Express.js, <br /> Fastify, <br /> Material-UI, <br /> TypeSript, <br /> Microservices, <br /> GitHub, <br /> Git Lab
           </ListParagraph>
         </ListContainer>
       </ListItem>
