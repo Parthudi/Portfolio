@@ -62,7 +62,6 @@ export const Intro = styled.div`
   line-height: 18px;
 `;
 
-
 export const CardInfo = styled.p`
   width: 100%;
   padding: 0 50px;
@@ -75,8 +74,6 @@ export const CardInfo = styled.p`
   
 }
 `;
-
-
 export const UtilityList = styled.ul`
   list-style-type: none;
   padding: 0;
