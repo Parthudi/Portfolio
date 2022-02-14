@@ -2,7 +2,7 @@ import React from 'react';
 import { BlogCard, CardInfo, ExternalLinks, GridContainer, HeaderThree, Hr, Tag, TagList, TitleContent, UtilityList, Img } from './ProjectsStyles';
 import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalComponents';
 import { projects } from '../../constants/constants';
-
+// p.image
 const Projects = () => (
   <Section nopadding id="projects">
     <SectionDivider />
@@ -11,7 +11,7 @@ const Projects = () => (
       {projects.map((p, i) => {
         return (
           <BlogCard key={i}>  
-            <Img src={p.image} alt="Project Picture" />
+            <Img src="/images/Chat App.png" alt="Project Picture" />
             <TitleContent>
               <HeaderThree title>{p.title}</HeaderThree>
               <Hr />
