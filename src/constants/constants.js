@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Chat App',
-    description: "Using Node.js, Express, HandleBars,	users can chat with doctors with one-on-one feature & can share their location too & hosted at heroku platform.",
+    description: "Users can chat with doctors with one-on-one feature & can share their location too & hosted at heroku platform.",
       image: '/images/Chat App.png',
       tags: ['MongoDB', 'Express', 'Node.js'],
     source: 'https://github.com/Parthudi/chat-app',
@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'Humans Wear',
-    description:"Using React.js, Node.js, Express & MongoDB, users can see products with nice ui, can add to cart, add to wishlist, as e-commerce site based on clothing. For ui purpose Material UI is used.",
+    description:"Users can see products with nice ui, can add to cart, add to wishlist, as e-commerce site based on clothing. For ui purpose Material UI is used.",
     image: '/images/humans Wear.png',
     tags: ['React.js', 'Express', 'MongoDB', 'Node.js', 'JavaScript'],
     source: 'https://github.com/Parthudi/Humans_Wear',
@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'Bookie-store',
-    description: "Using Nodejs, React.js, MongoDB, Express.js, users can see products with nice, different kinds of sorting are added, add to cart features are also there, as e-commerce site based on book. Here all the images and data are stored in mongodb and For ui purpose Bootstrap is used.",
+    description: "Users can see products with nice, different kinds of sorting are added, add to cart features are also there, as e-commerce site based on book. Here all the images and data are stored in mongodb and For ui purpose Bootstrap is used.",
       image: '/images/BookieCommerce.png',
       tags: ['React.js', 'Node.js', 'MongoDB', 'Express.js'],
     source: 'https://github.com/Parthudi/bookStore',
@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'Monsters Hunt',
-    description: "Using React.js, Users can view ui for monsters and they can even search the monsters by there name.",
+    description: "Users can view ui for monsters and they can even search the monsters by there name.",
     image: '/images/Monsters Hunt.png',
     tags: ['React.js'],
     source: 'https://github.com/Parthudi/monsters-hunt',
@@ -37,7 +37,7 @@ export const projects = [
   },
   {
     title: 'Humans Burger',
-    description: "Using React.js, Users can make their own burgers by adding different things to it and for data saving purpose firebase is used. Users can see their past orders history & hosted at GitHub pages. ",
+    description: "Users can make their own burgers by adding different things to it and for data saving purpose firebase is used. Users can see their past orders history & hosted at GitHub pages. ",
     image: '/images/Humans Burger.png',
     tags: ['React.js'],
     source: 'https://github.com/Parthudi/humansBurger',
@@ -46,7 +46,7 @@ export const projects = [
   },
   {
     title: 'WhatsApp Services',
-    description: "Using React.js, Node.js, MongoDB, Express, Users can scan QR code and then send WhatsApp message to only some admin added users, can add peoples in the company, & can create groups and have chat & for data storage purpose mongo dB is used & for ui & Responsive purpose Material UI is used. ",
+    description: "Users can scan QR code and then send WhatsApp message to only some admin added users, can add peoples in the company, & can create groups and have chat & for data storage purpose mongo dB is used & for ui & Responsive purpose Material UI is used. ",
     image: '/images/Whatsapp Services.png',
     tags: ['React.js', 'Node.js', 'MongoDB', 'Express.js'],
     source: 'https://github.com/Parthudi/whatsapp',

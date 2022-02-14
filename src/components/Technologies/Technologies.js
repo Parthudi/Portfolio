@@ -19,7 +19,6 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            Experiece with <br />
             React.js
           </ListParagraph>
         </ListContainer>
@@ -31,7 +30,6 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Experience with <br />
             Node and Database like MongoDB and MySQL
           </ListParagraph>
         </ListContainer>
@@ -43,8 +41,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Other Technologies</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            tools like Express.js, <br /> Fastify, <br /> Material-UI, <br /> TypeSript, <br /> Microservices
+            Express.js, <br /> Fastify, <br /> Material-UI, <br /> TypeSript, <br /> Microservices <br /> GitHub <br /> Git Lab
           </ListParagraph>
         </ListContainer>
       </ListItem>
