@@ -5,7 +5,6 @@ export const projects = [
       photo: 'https://res.cloudinary.com/parth23200926/image/upload/v1644858805/mediaFiles/Chat_App_vxt3g3.png',
       tags: ['MongoDB', 'Express', 'Node.js'],
     source: 'https://github.com/Parthudi/chat-app',
-    visit: 'https://parthudi-chat-app.herokuapp.com/',
     id: 0,
   },
   {
@@ -14,7 +13,6 @@ export const projects = [
     photo: 'https://res.cloudinary.com/parth23200926/image/upload/v1644858835/mediaFiles/humans_Wear_seefij.png',
     tags: ['React.js', 'Express', 'MongoDB', 'Node.js', 'JavaScript'],
     source: 'https://github.com/Parthudi/Humans_Wear',
-    visit: 'https://github.com/Parthudi/Humans_Wear',
     id: 1,
   },
   {
@@ -23,7 +21,6 @@ export const projects = [
       photo: 'https://res.cloudinary.com/parth23200926/image/upload/v1644858795/mediaFiles/BookieCommerce_rbkujc.png',
       tags: ['React.js', 'Node.js', 'MongoDB', 'Express.js'],
     source: 'https://github.com/Parthudi/bookStore',
-    visit: 'https://github.com/Parthudi/bookStore',
     id: 2,
   },
   {
@@ -32,7 +29,6 @@ export const projects = [
     photo: 'https://res.cloudinary.com/parth23200926/image/upload/v1644858853/mediaFiles/Monsters_Hunt_jy00fi.png',
     tags: ['React.js'],
     source: 'https://github.com/Parthudi/monsters-hunt',
-    visit: 'https://github.com/Parthudi/monsters-hunt',
     id: 3,
   },
   {
@@ -41,7 +37,6 @@ export const projects = [
     photo: 'https://res.cloudinary.com/parth23200926/image/upload/v1644858818/mediaFiles/Humans_Burger_giqmh1.png',
     tags: ['React.js'],
     source: 'https://github.com/Parthudi/humansBurger',
-    visit: 'https://github.com/Parthudi/humansBurger',
     id: 4,
   },
   {
@@ -50,7 +45,6 @@ export const projects = [
     photo: 'https://res.cloudinary.com/parth23200926/image/upload/v1644858874/mediaFiles/Whatsapp_Services_emwtur.png',
     tags: ['React.js', 'Node.js', 'MongoDB', 'Express.js'],
     source: 'https://github.com/Parthudi/whatsapp',
-    visit: 'https://github.com/Parthudi/whatsapp',
     id: 5,
   },
 ];
