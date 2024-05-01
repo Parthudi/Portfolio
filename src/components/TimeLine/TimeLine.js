@@ -46,7 +46,14 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        To work in a competitive environment on challenging job that shall yield the twin benefits of the job satisfaction and a steady-paced professional growth. Aiming to use my knowledge and enhance my skills on daily basis as a Web Developer || Software Engineer. Aiming to be the best fitting choice for the company, to satisfy the position as a Web Developer || Software Engineer for the company.
+      Result-driven Full Stack Engineer | Passionate about Challenging Opportunities 🚀 <br/><br/>
+      Seeking a competitive environment that offers not only job satisfaction but also the chance for
+      continuous professional growth. My goal is to utilize my knowledge and skills as a Full Stack
+      Engineer to excel daily, becoming the perfect fit for your esteemed company. Let's join forces to
+      achieve greatness as I aim to contribute significantly to the role of a Full Stack Engineer.
+      Together, we can reach new heights!💼 <br/> #FullStackEngineer #OpportunityDriven
+      #ContinuousGrowth.
+
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

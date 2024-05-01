@@ -19,7 +19,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            React.js and Next.js
+            React.js, <br /> Vue.js
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -30,7 +30,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Node and Database like MongoDB and MySQL
+            Nodejs, Nestjs, Database like MongoDB and MySQL
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -41,7 +41,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Other Technologies</ListTitle>
           <ListParagraph>
-            Express.js, <br /> Fastify, <br /> Material-UI, <br /> TypeSript, <br /> Microservices, <br /> GitHub, <br /> Git Lab
+            Expressjs, <br /> Fastifyjs, <br /> Quasar, <br /> Pinia, <br /> Vuex <br /> TypeSript, <br /> GitHub
           </ListParagraph>
         </ListContainer>
       </ListItem>

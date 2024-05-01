@@ -8,7 +8,6 @@ import Aos from "aos";
 import "aos/dist/aos.css";
 
 const Hero = (props) => { 
-
 return(
   <div> 
     <Section row nopadding>

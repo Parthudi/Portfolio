@@ -18,15 +18,15 @@ const Home = () => {
   
   return (
     <Layout>
-          <Section grid>
-            <Hero />
-            <BgAnimation />
-          </Section>
-        <div data-aos="fade-up">
+        <Section grid>
+          <Hero />
+          <BgAnimation />
+        </Section>
+        <div data-aos="zoom-in-up">
           <ProfilePics />
         </div>
         
-        <div data-aos="fade-up">
+        <div data-aos="flip-left">
           <Projects />
         </div>
       

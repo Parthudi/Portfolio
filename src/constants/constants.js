@@ -56,7 +56,8 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2020, text: 'Started my journey by joining Marsilex as an intern', month: '[ jul - sept ]'},
-  { year: 2021, text: 'Started my job as a Software Developer || Software Engineer at Vistaura', month: `[ Feb - Oct]`},
-  { year: 2021, text: 'Started my job as a Software Developer || Software Engineer at Vistaura', month: `[ Oct - Present]`},
+  { year: 2020, text: 'Software Developer at Marsilex as Intern',    month: '[ Jul-2020 - Sept-2020 ]'},
+  { year: 2021, text: 'Software Developer at Vistaura',    month: `[ Feb-2021 - Oct-2021]`},
+  { year: 2022, text: 'Software Engineer at Yellow.AI',    month: `[ Oct-2021 - Oct-2022]`},
+  { year: 2023, text: 'FullStack Engineer at Fairtility',  month: `[ Oct-2022 - Current]`},
 ];
